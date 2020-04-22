@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Check Location</string>
+    <string name="start_location">Start Location Update</string>
+    <string name="stop_location">Stop Location Update</string>
+    <string name="location">0.0℃ 0.0℃</string>
+    <string name="_00_00">00:00</string>
+    <string name="your_coordinates">Your Coordinates</string>
+    <string name="latitude_longitude">Latitude Longitude</string>
+    <string name="time">Time</string>
+</resources>
